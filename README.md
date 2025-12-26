@@ -1,5 +1,5 @@
 # 🌐 Web Development Roadmap & Resources
-![Alt text]([images/picture.png](https://github.com/ayesha1332/Web-Development-Roadmap---Resources/blob/main/Web%20Development.png?raw=true)
+![Alt text](https://github.com/ayesha1332/Web-Development-Roadmap---Resources/blob/main/Web%20Development.png?raw=true)
 Welcome to this **Web Development Learning Repository** 🚀  
 This repository is designed to help you **learn web development from beginner to advanced level** with structured guidance, practical tools, and trusted online resources.
 
